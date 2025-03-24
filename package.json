@@ -1,0 +1,11 @@
+{
+	"name": "biome-repro-5432",
+	"private": true,
+	"type": "module",
+	"scripts": {
+		"check": "biome check"
+	},
+	"devDependencies": {
+		"@biomejs/biome": "2.0.0-beta.1"
+	}
+}

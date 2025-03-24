@@ -1,0 +1,7 @@
+/node_modules/
+
+# This should be ignored, but will not be ignored
+/ignore1/
+
+# This will be ignored
+ignore2/
